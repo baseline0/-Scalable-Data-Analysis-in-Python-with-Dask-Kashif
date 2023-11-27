@@ -6,3 +6,4 @@ install:
 
 make-venv:
 	python3.11 -m venv venv
+	echo "dask_ml needs python < v3.12"

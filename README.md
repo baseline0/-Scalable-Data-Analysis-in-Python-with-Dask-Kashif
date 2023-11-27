@@ -1,3 +1,7 @@
+https://video-alexanderstreet-com.uwinnipeg.idm.oclc.org/watch/scalable-data-analysis-in-python-with-dask?context=channel:packt-publishing 
+
+---
+
 # Scalable Data Analysis in Python with Dask [Video]
 This is the code repository for [Scalable Data Analysis in Python with Dask [Video]]( https://www.packtpub.com/web-development/scalable-data-analysis-python-dask-video?utm_source=github&utm_medium=repository&utm_campaign=9781789808926), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
